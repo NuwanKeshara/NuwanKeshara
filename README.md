@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **nuwankeshara12@gmail.com**
 
-- ⚡ Fun fact: **I love swimming**
+- ⚡ Fun fact: **I am a Civil Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
