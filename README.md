@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on: [www.medium.com](https://medium.com/@nuwankeshara12)
 
-- 🤝 Send me request on: [www.LinkedIn.com](https://www.linkedin.com/in/nuwan-keshara/)
+- 🤝 Send me a connection request on: [www.LinkedIn.com](https://www.linkedin.com/in/nuwan-keshara/)
 
 - 💬 Ask me about: **Data Engineering and Big Data**
 
