@@ -29,4 +29,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NuwanKeshara&show_icons=true&locale=en" alt="github-readme-streak-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NuwanKeshara" alt="github-readme-streak-stats" /></p>
