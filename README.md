@@ -3,17 +3,17 @@
 
 - 🌱 I’m currently learning **Big Data Frameworks in-depth**
 
-- 👨‍💻 All of my projects are available at: [www.github.com](https://github.com/NuwanKeshara)
+- 👨‍💻 My projects are available at : [www.github.com](https://github.com/NuwanKeshara)
 
-- 📝 I regularly write articles on: [www.medium.com](https://medium.com/@nuwankeshara12)
+- 📝 I write articles on : [www.medium.com](https://medium.com/@nuwankeshara12)
 
-- 🤝 Send me a connection request on: [www.LinkedIn.com](https://www.linkedin.com/in/nuwan-keshara/)
+- 🤝 Send me a connection request on : [www.LinkedIn.com](https://www.linkedin.com/in/nuwan-keshara/)
 
-- 💬 Ask me about: **Data Engineering and Big Data**
+- 💬 Ask me about : **Data Engineering and Big Data**
 
-- 📫 How to reach me: **nuwankeshara12@gmail.com**
+- 📫 How to reach me : **nuwankeshara12@gmail.com**
 
-- ⚡ Fun fact: **Even though I am a Data Engineer now, I was studying to become a Civil Engineer! 😁**
+- ⚡ Fun fact : **Even though I am a Data Engineer now, I was studying to become a Civil Engineer! 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
