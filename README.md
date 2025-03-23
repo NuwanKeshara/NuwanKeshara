@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Big Data Frameworks in-depth**
 
-- 👨‍💻 My projects are available at : [www.github.com](https://github.com/NuwanKeshara)
+- 👨‍💻 You can find my projects on Data Engineering and Big Data that available here.
 
 - 📝 I write articles on : [www.medium.com](https://medium.com/@nuwankeshara12)
 
