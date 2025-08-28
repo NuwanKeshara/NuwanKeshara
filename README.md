@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuwan Keshara</h1>
-<h3 align="center">A passionate Data Engineer based on Finland</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 - 🌱 I’m currently learning **Big Data Frameworks in-depth**
 
