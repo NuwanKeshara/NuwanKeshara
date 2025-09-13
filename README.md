@@ -10,7 +10,7 @@ I am a passionate Data Engineer with some years of professional experience and a
   <li>Work with <strong>data storage and analytics platforms</strong> to enable insights and reporting.</li>
   <li>Explore <strong>streaming data architectures</strong> and <strong>real-time analytics</strong>.</li>
   <li>Build <strong>cloud-native and scalable solutions</strong> focused on reliability and automation.</li>
-  <li>Continuously learn and experiment with <strong>system administration, containerization and deployment practices</strong> to bridge the gap between engineering and operations.</li>
+  <li>Continuously learn and experiment with <strong>system infrastructure, containerization and deployment practices</strong> to bridge the gap between engineering and operations.</li>
 </ul>
 
 <h2 align="center">My Goal 🎯</h2>
