@@ -1,3 +1,5 @@
+<!-- ![](https://komarev.com/ghpvc/?username=NuwanKeshara)-->
+
 <h1 align="center">Hi, I'm Nuwan Keshara 👋</h1>
 
 <p align="justify">
