@@ -15,13 +15,6 @@ I am a passionate Data Engineer with some years of professional experience and a
   <li>Continuously learn and experiment with <strong>system infrastructure, containerization and deployment practices</strong> to bridge the gap between engineering and operations.</li>
 </ul>
 
-<h2 align="center">My Goal 🎯</h2>
-<ul>
-  <li>Become an expert in <strong>data engineering</strong>, capable of understanding and designing end-to-end systems.</li>
-</ul>
-
-
-
 <hr>
 <h3 align= "center">Let's Connect</h3>
 <p align="center">
