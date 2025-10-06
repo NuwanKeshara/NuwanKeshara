@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Nuwan Keshara 👋</h1>
 
 <p align="justify">
-I am a passionate Data Engineer with some years of professional experience and a deep passion for data with building scalable, reliable and efficient data systems. My journey is driven by curiosity not just about data but about the full technology stack that powers it including cloud architectures, big data platforms, DevOps practices and system design.
+I am a passionate Data Engineer with years of professional experience and a deep passion for data with building scalable, reliable and efficient data systems. My journey is driven by curiosity not just about data but about the full technology stack that powers it including cloud architectures, big data platforms, DevOps practices and system design.
 </p>
 
 <h2 align="center">What I Do 🛠️</h2>
