@@ -40,7 +40,7 @@ I am a passionate Data Engineer with professional experience and deep passion fo
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NuwanKeshara" alt="github-readme-streak-stats" /></p> -->
 <br>
 
-<h1 align="center">🌐 Socials:</h1>
+<h2>🌐 Socials:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nuwan-keshara/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nuwankeshara12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuwankeshara12@gmail.com) 
 <br><br><br>
