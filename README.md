@@ -57,8 +57,8 @@ I am a passionate Data Engineer with professional experience and deep passion fo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanKeshara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br><br><br>
 
-<h2>🏆 GitHub Trophies</h2>
+<!-- <h2>🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=NuwanKeshara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NuwanKeshara&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 
